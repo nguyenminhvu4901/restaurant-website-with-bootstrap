@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    border:0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container .head{
+    background-color:aqua;
+    
+}
+
+.container-fluid .head .col-6 img{
+       height: 30px;
+        
+
+}
+.container-fluid  .head a{
+    color:rgb(189, 93, 93);
+    padding-top: 10px;
+}
+
+.container-fluid .search .d-flex
+{
+        text-align: center;
+        padding-top: 90px;
+        padding-right: 30%;
+        padding-left: 30%;
+} 
+
+.container-fluid .body-explore {
+    text-align: center;
+    margin: 50px auto;
+}
+.container-fluid .body-explore .row {
+    height: 250px;
+    padding-right: 100px;
+    margin: 50px auto;
+    
+}
+.container-fluid .body-explore .row p {
+    padding-top: 240px;
+    color: white;
+}
+
+
+.body-menu{
+    margin:0px 100px;
+    
+}
+
